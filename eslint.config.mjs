@@ -15,6 +15,7 @@ export default defineConfig([
     'build/**',
     'next-env.d.ts',
     'prisma/generated/**',
+    'app/components/ui/**',
   ]),
   {
     plugins: {
